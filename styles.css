@@ -1,0 +1,72 @@
+main {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  color: #444444;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 29px;
+}
+
+p {
+  font-size: 19px;
+  line-height: 24px;
+}
+
+p.plans {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+p.box {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+div.main {
+  margin-top: 3rem;
+}
+
+div.box1 {
+  border: #444444 2px solid;
+  padding: 1em;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+div.team {
+  border-bottom: #444444 1px solid;
+}
+
+div.taking {
+  border-bottom: #444444 1px solid;
+}
+
+div.box-list {
+  border-bottom: #444444 1px solid;
+  margin-bottom: 1rem;
+}
+
+div.box2 {
+  background-color: #000;
+  border: #444444 2px solid;
+  padding: 1em;
+  border-radius: 10px;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+/* ARROW */
+
+.thing span {
+  position: relative;
+  transition: all 0.2s ease 0s;
+  opacity: 1;
+  left: 6px;
+  bottom: 0px;
+}
